@@ -1,0 +1,1 @@
+export const LOAD_BILLS_SUCCESS = 'LOAD_BILLS_SUCCESS';
